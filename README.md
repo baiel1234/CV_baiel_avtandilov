@@ -12,4 +12,4 @@ projects:
 task manager https://github.com/baiel1234/Nest_mid 
 
 рекомендации
-https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav
+https://www.linkedin.com/in/baiel-avtandilov-906661349?trk=contact-info
