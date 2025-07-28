@@ -2,7 +2,7 @@
 Information for ALA -TOO
 
 сертификаты и дипломы:     
-https://cscan.co/8KgTV0AVQn
+https://docs.google.com/presentation/d/1QO0-1wc9TE0R_L1PMfJsU2Hc8RL6TQD3iNmgZg1hXFU/edit?usp=drivesdk
 
 projects:    
 Интернет магазин https://github.com/baiel1234/E-Commerce-back-end     
