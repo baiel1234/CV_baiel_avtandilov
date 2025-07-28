@@ -10,3 +10,6 @@ projects:
 Магазин книг https://github.com/baiel1234/bookstor 
 дата аналитика(групповой проект) https://github.com/cosmodesant49/Data_analitic_wb 
 task manager https://github.com/baiel1234/Nest_mid 
+
+рекомендации
+https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav
